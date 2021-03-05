@@ -2,30 +2,30 @@
 {
 Categorias: Categoria[]=[
     {
-      nombre: 'Categoria 1',
+      nombre: "Categoria 1",
       tipos: 
       {
-        nombreTipo1:'Tipo 1',
-        nombreTipo2:'Tipo 2',
-        nombreTipo3:'Tipo 3'
+        nombreTipo1:"Tipo 1",
+        nombreTipo2:"Tipo 2",
+        nombreTipo3:"Tipo 3"
       }
     },
     {
-      nombre: 'Categoria 2',
+      nombre: "Categoria 2",
       tipos: 
       {
-        nombreTipo1:'Tipo 1',
-        nombreTipo2:'Tipo 2',
-        nombreTipo3:'Tipo 3'
+        nombreTipo1:"Tipo 1",
+        nombreTipo2:"Tipo 2",
+        nombreTipo3:"Tipo 3"
       }
     },
     {
-      nombre: 'Categoria 3',
+      nombre: "Categoria 3",
       tipos: 
       {
-        nombreTipo1:'Tipo 1',
-        nombreTipo2:'Tipo 2',
-        nombreTipo3:'Tipo 3'
+        nombreTipo1:"Tipo 1",
+        nombreTipo2:"Tipo 2",
+        nombreTipo3:"Tipo 3"
       }
     },
 
