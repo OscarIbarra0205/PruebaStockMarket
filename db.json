@@ -1,6 +1,6 @@
 
 [{
-Categorias: Categoria[]=[
+"Categorias": "Categoria"[]=[
     {
       "nombre": "Categoria 1",
       "tipos": 
