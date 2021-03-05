@@ -1,6 +1,6 @@
 
 [{
-    {
+    
       "nombre": "Categoria 1",
       "tipos": 
       {
@@ -26,5 +26,5 @@
         "nombreTipo2":"Tipo 2",
         "nombreTipo3":"Tipo 3"
       }
-    },
+    
   }]
