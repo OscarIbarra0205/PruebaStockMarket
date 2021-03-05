@@ -1,6 +1,5 @@
 
 [{
-"Categorias": "Categoria"[]=[
     {
       "nombre": "Categoria 1",
       "tipos": 
@@ -28,6 +27,4 @@
         "nombreTipo3":"Tipo 3"
       }
     },
-
-  ]
   }]
